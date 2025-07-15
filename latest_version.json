@@ -1,4 +1,8 @@
 {
-  "changes": "https://raw.githubusercontent.com/gooberinc/version/main/changes.txt",
+  "changes": "https://goober.whatdidyouexpect.eu/goob/changes.txt",
+  "config_url": "https://raw.githubusercontent.com/gooberinc/goober/refs/heads/main/config.py",
+  "download_url": "https://raw.githubusercontent.com/gooberinc/goober/refs/heads/main/bot.py",
+  "hash": "0",
+  "last_modified": "0",
   "version": "2.2.0"
 }
