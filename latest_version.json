@@ -1,6 +1,5 @@
 {
   "changes": "https://raw.githubusercontent.com/gooberinc/version/main/changes.txt",
-  "changes": "https://goober.whatdidyouexpect.eu/goob/changes.txt",
   "config_url": "https://raw.githubusercontent.com/gooberinc/goober/refs/heads/main/config.py",
   "download_url": "https://raw.githubusercontent.com/gooberinc/goober/refs/heads/main/bot.py",
   "hash": "4699f8d3d9fd1f0456f3a3fe6d9a696056cb6ec7fbbf8dbf1bb72348e5da8587",
