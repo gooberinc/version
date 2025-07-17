@@ -1,8 +1,12 @@
+2.3.4 July 18th 2025
+- custom text support for g.impact
+
 2.3.3 July 16th 2025
 - memory.json now logs who sent what
 
 2.1.3 July 08, 2025
 - ctih1 added logging
+- i MURDERED goober central
 
 2.1.2 July 08, 2025
 - fixed charlies fuckups...
